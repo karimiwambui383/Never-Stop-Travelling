@@ -2,7 +2,7 @@
 
 A website that enables you to discover different places in the world.
 
-> Forked from [REAL-OWNER/REAL-REPO](https://github.com/REAL-OWNER/REAL-REPO).
+> Forked from [FaithHenzen/Never-Stop-Travelling](https://github.com/FaithHenzen/Never-Stop-Travelling).
 > This fork adds: landing page navbar and forms (more coming, one feature at a time).
 
 ![Status](https://img.shields.io/badge/status-in%20development-yellow)
@@ -34,4 +34,4 @@ Open `index.html` in your browser to view the site.
 
 ## Credits
 
-Original project by [REAL-OWNER](https://github.com/REAL-OWNER). Fork maintained by [karimiwambui383](https://github.com/karimiwambui383).
+Original project by [FaithHenzen](https://github.com/FaithHenzen). Fork maintained by [karimiwambui383](https://github.com/karimiwambui383).
