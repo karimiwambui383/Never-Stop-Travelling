@@ -26,6 +26,9 @@ header{
     align-items: center;
     z-index: 99;
 }
+h1{
+    font-size: 120px;
+}
 .logo{
     font-size: 2em;
     color:#fff ;
